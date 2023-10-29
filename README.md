@@ -2,7 +2,7 @@
 ### Who Am I?
 
   * I'm Satheesh S
-  * flutter and spring boot lover
+  * flutter and java lover
   * Now Going Graduation but,
     I've Done Some Freelance Project as a App Developer and Web Developer
   * 20 Years Young Programmer
@@ -11,15 +11,14 @@
 
 ```text
 Java          97.00 %   ██████████████████████
-Spring boot   47.00 %   ███████████   
-HTML          99.00 %   ███████████████████████  
-CSS           91.00 %   █████████████████████
-React         66.00 %   ████████
 Flutter       96.00 %   ██████████████████████ 
 Dart          57.00 %   █████████████        
 MongoDB       88.00 %   ███████████████████           
-MySql         92.00 %   █████████████████████     
-Python        30.00 %   ██████████       
+MySql         92.00 %   █████████████████████  
+HTML          99.00 %   ███████████████████████  
+CSS           91.00 %   █████████████████████
+React         26.00 %   ████████   
+Spring boot   37.00 %   ███████████       
 Figma         46.00 %   ███████                        
 Git           78.00 %   ███████████████████      
 ```
